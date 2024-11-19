@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.assignment4.test.VectorClockTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-10-30T16:51:41" hostname="Legion5" time="0.002">
+  <properties/>
+  <testcase name="updateClock()" classname="com.assignment4.test.VectorClockTest" time="0.001"/>
+  <testcase name="tick()" classname="com.assignment4.test.VectorClockTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
